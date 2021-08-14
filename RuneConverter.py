@@ -64,7 +64,7 @@ class SubDisplay:
     def main(self):
         while True:
             event, values = self.window.read()
-            if event == "閉じる":
+            if event == "閉じる" or event == sg.WIN_CLOSED:
                 break
         self.window.close()
 
