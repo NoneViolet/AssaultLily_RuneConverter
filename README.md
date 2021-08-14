@@ -1,6 +1,7 @@
 # アサルトリリィ　ルーン文字変換器
-[![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-%E2%AC%85-brightgreen)](https://github.com/PySimpleGUI/PySimpleGUI)  
-
+[![python](https://img.shields.io/badge/python-%E2%AC%85-brightgreen)](https://github.com/python)
+[![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-%E2%AC%85-brightgreen)](https://github.com/PySimpleGUI/PySimpleGUI)
+[![pyinstaller](https://img.shields.io/badge/pyinstaller-%E2%AC%85-brightgreen)](https://github.com/pyinstaller/pyinstaller)  
 ## Features
 アサルトリリィに登場するルーン文字をアルファベットを相互変換するプログラムをつくりました。
 アルファベット以外の文字は変換されずにそのままになるようになっています。
