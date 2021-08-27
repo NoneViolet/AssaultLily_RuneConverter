@@ -1,7 +1,5 @@
 import string
-from typing import DefaultDict
 import PySimpleGUI as sg
-from PySimpleGUI import popup_get_text
 
 AlphabetToRuneDict = {
     "A": "ᚪ",    "B": "ᛒ",    "C": "ᚳ",    "D": "ᛞ",    "E": "ᛖ",
@@ -64,7 +62,7 @@ class SubDisplay:
     def main(self):
         while True:
             event, values = self.window.read()
-            if event == "閉じる" or event == sg.WIN_CLOSED:
+            if event in ("閉じる", sg.WIN_CLOSED):
                 break
         self.window.close()
 
