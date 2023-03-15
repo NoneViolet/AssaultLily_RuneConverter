@@ -1,4 +1,4 @@
-# アサルトリリィ　ルーン文字変換器
+# アサルトリリィ2次創作　ルーン文字変換器
 [![python](https://img.shields.io/badge/python-%E2%AC%85-brightgreen)](https://github.com/python)
 [![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-%E2%AC%85-brightgreen)](https://github.com/PySimpleGUI/PySimpleGUI)
 [![pyinstaller](https://img.shields.io/badge/pyinstaller-%E2%AC%85-brightgreen)](https://github.com/pyinstaller/pyinstaller)  
